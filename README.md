@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 -->
 <hr>
+
 - 🤎I am Joses
 - 🔭 I’m currently working on web development projects using HTML, CSS and JavaScript.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
