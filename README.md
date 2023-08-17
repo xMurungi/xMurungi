@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical)](https://github.com/xMurungi/github-readme-stats)
+[![Joses's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMurungi)](https://github.com/anuraghazra/github-readme-stats)
 
 # My stats 😊
 <div style="display:flex;justify-content: center;align-items:centre;">
