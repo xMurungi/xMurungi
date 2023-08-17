@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love learning human psychology (not the reading minds thing ... emotion stuff😏)
 
 <hr>
-# My Stats 😀
+
 ![Murungi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMurungi&show_icons=true&theme=radical)
 
- <hr>
-# My streaks 😊
+
 <div style="display:flex;justify-content: center;align-items:centre;">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xMurungi&theme=tokyonight&background=000000)](https://git.io/streak-stats)
