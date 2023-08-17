@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   
 ![Top Langs](https://github-readme-stats-iamenoch.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical&hide_progress=true) 
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&langs_count=5&theme=dark)]()
+
 </div>
 
 <hr>
