@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical)]([ats](https://github.com/xMurungi/xMurungi)https://github.com/xMurungi/xMurungi)
+
+[![Top Langs](https://github-readme-stats-iamenoch.vercel.app/api/top-langs/?username=Jcardif&hide_progress=true)
