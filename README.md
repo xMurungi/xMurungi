@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <hr>
 
  - 🤎I am Joses
- - 🔭 I’m currently working on web development projects using HTML, CSS and JavaScript.[Project](https://xmurungi.github.io/Weather-API/)
+ - 🔭 I’m currently working on web development projects using HTML, CSS and JavaScript. [Project](https://xmurungi.github.io/Weather-API/)
  - 🌱 I’m currently learning HTML, CSS and JavaScript.
  - 👯 I’m looking to collaborate on cool web projects that can help me learn and grow as a software engineer.
  - 🤔 I’m looking for help with learning and building beautiful websites that will leave users satisfied and amazed.
