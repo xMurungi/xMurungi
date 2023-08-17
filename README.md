@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical)](https://github.com/xMurungi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi)](https://github.com/xMurungi/xMurungi/edit/main/README.md)
+
 <div style="justify-content: center;">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xMurungi&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 </div>
