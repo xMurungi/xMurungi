@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical)](https://github.com/xMurungi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi)](https://github.com/xMurungi/xMurungi/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi)](https://github.com/xMurungi/xMurungi/main/README.md)
 
 <div style="display:flex;justify-content: center;align-items:centre;">
   
