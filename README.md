@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <hr>
 
 ![Joses' GitHub stats](https://github-readme-stats.vercel.app/api?username=xMurungi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
