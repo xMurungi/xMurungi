@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xMurungi&theme=tokyonight&background=000000)](https://git.io/streak-stats)
   
-![Top Langs](https://github-readme-stats-iamenoch.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical&hide_progress=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical&hide_progress=true) 
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&langs_count=5&theme=dark)]()
 
