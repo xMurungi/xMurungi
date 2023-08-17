@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
+<hr>
 
 - 🔭 I’m currently working on web development projects using HTML, CSS and JavaScript.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joses-murungi-46b045255/)
 - 😄 Pronouns: he/HIM
 - ⚡ Fun fact: I love learning human psychology (not the reading minds thing ... emotion stuff😏)
-- 
+
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical)](https://github.com/xMurungi/github-readme-stats)
@@ -24,5 +25,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi)](https://github.com/xMurungi/xMurungi/edit/main/README.md)
 
 <div style="justify-content: center;">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xMurungi&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+  
 </div>
