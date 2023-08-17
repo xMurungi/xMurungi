@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/joses-murungi-46b045255/
 - 😄 Pronouns: he/HIM
 - ⚡ Fun fact: I love learning human psychology (not the reading minds thing ... emotion stuff😏)
+
+![Joses' GitHub stats](https://github-readme-stats.vercel.app/api?username=xMurungi&show_icons=true&theme=radical)
