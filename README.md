@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  - 💬 Ask me about web development and other cool tech stuff. I might have limited knowledge to your questions though😂😂 
        but hey I am still learning a lot.
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joses-murungi-46b045255/)
- - 😄 Pronouns: he/HIM
+ - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I love learning human psychology (not the reading minds thing ... emotion stuff😏)
 
 <hr>
