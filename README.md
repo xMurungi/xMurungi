@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  - 🤔 I’m looking for help with learning and building beautiful websites that will leave users satisfied and amazed.
  - 💬 Ask me about web development and other cool tech stuff. I might have limited knowledge to your questions though😂😂 
        but hey I am still learning a lot.
- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joses-murungi-46b045255/)
+ - 📫 How to reach me: [LinkedIn-Clone](https://www.linkedin.com/in/joses-murungi-46b045255/)
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I love learning human psychology (not the reading minds thing ... emotion stuff😏)
 
