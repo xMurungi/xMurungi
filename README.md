@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 <hr>
 
  - 🤎I am Joses
+<!--
  - 🔭 I’m currently working on web development projects using React, CSS and JavaScript. [LinkedIn-Clone](https://github.com/xMurungi/linkedin-clone/)
  - 🌱 I’m currently learning React.
  - 👯 I’m looking to collaborate on cool web projects that can help me learn and grow as a software engineer.
@@ -19,6 +20,7 @@ Here are some ideas to get you started:
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joses-murungi-46b045255/)
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I love learning human psychology (not the reading minds thing ... emotion stuff😏)
+-->
 
 <hr>
 
