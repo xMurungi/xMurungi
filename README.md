@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- <hr> -->
 
-### :fire: My Stats : 
+### :fire: Stats : 
 
 <div align="center">
 <!--
