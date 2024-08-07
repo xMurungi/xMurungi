@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Joses 🤎
 
 <!--
 **xMurungi/xMurungi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 
 -->
-<hr>
+<!-- <hr> -->
 
- - 🤎I am Joses
+ - 
 <!--
  - 🔭 I’m currently working on web development projects using React, CSS and JavaScript. [LinkedIn-Clone](https://github.com/xMurungi/linkedin-clone/)
  - 🌱 I’m currently learning React.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  - ⚡ Fun fact: I love learning human psychology (not the reading minds thing ... emotion stuff😏)
 -->
 
-<hr>
+<!-- <hr> -->
 
 ### :fire: My Stats : 
 
