@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats : 
 
 <div align="center">
-
+<!--
 ![Murungi's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMurungi&show_icons=true&theme=radical)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xMurungi&theme=tokyonight&background=000000)](https://git.io/streak-stats)
   <!-- Donut Layout
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical&hide_progress=true) -->
