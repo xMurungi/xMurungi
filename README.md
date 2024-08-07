@@ -1,4 +1,4 @@
-### Hi there 👋 I am Joses 🤎
+### Hi there 👋, I am Joses 🤎
 
 <!--
 **xMurungi/xMurungi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
