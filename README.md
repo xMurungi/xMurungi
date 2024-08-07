@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 -->
 <!-- <hr> -->
 
- - 
 <!--
  - 🔭 I’m currently working on web development projects using React, CSS and JavaScript. [LinkedIn-Clone](https://github.com/xMurungi/linkedin-clone/)
  - 🌱 I’m currently learning React.
